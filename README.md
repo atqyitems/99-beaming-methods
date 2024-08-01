@@ -1,2 +1,3 @@
-# 200-beaming-methods
-there are 200 beaming methods in this folder
+# FREE 99 METHODS
+
+99 beaming methods
