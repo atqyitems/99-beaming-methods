@@ -1,0 +1,15 @@
+--How to make an ICO aka icon file--
+
+Download: http://www.angusj.com/resourcehacker/
+
+1.) Download a random PNG you want to use for your .EXE  off of google or a random image website
+
+2.) Go to cloud convert https://cloudconvert.com/png-to-ico and convert the .PNG you downloaded to an ICO
+
+3.) Open resource-hacker and select your  .EXE you'll see a "Icon Group" folder right click it and click replace icon and select your .ICO file that you converted using cloud converter
+
+4.) Click replace icon and save it  and you have a image on your .EXE
+
+-
+
+This is an icon for your application these can be used for baiting your target into thinking they're downloading an image

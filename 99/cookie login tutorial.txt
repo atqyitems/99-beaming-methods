@@ -1,0 +1,10 @@
+How to use Edit This Cookie
+- This is how you sign into the persons account after you get there cookie!
+
+1. Get the chrome extension "Edit This Cookie": https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg
+2. Once you have the extension installed and have your cookie ready, you want to go Roblox.com and click on the extension on your topbar.
+3. A dropdown will appear and you want to navigate to "RobloSecurity"
+4. Once on RobloxSecurity replace the current cookie with the cookie you grabbed and hit the checkmark at the bottom of the dropdown
+5. Refresh your page and you should be signed into there account
+EditThisCookie
+EditThisCookie is a cookie manager. You can add, delete, edit, search, protect and block cookies!

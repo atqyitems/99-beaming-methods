@@ -1,0 +1,10 @@
+Reset accounts email even if they have everything written in
+ 
+Requirments
+- The person must not have a pin on there account and must have there account age over 13.
+ 
+1. Set the persons birthdate to a day where they are under 13
+2. All there stuff will be reset emails and everything
+3. Setup the new email and request a password change
+4. Change the password and go to security > Sign out of all sessions
+5. You now own the account

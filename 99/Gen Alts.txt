@@ -1,0 +1,45 @@
+Problems:
+
+not opening
+----------------
+1: Run the exe as admin
+2: Clear internet history/cache
+----------------
+This site can’t be reached
+----------------
+1: Make sure the exe is running
+2: Disable firewall (or let the exe bypass it)
+3: Make sure your anti virus isnt messing with the exe (would be better to disable it)
+----------------
+
+
+
+Prompts
+
+When installing the exe for the first time you will be given some prompts by firewall. This is normal! Make sure you click on both check boxes and allow the exe to bypass.
+
+
+FAQ
+
+Q: Is it a virus?
+A: No, the only reason it may show up on your anti virus is because it opens a application (roblox)
+
+Q: I have a problem/question. What do i do
+A: You can either create a ticket or ask in the general chat.
+
+Q: How do i use the exe?
+A: The exe will tell you what to do but if you still dont know what your doing there will be a video showing how to use
+
+__
+
+Download
+
+Download: https://bit.ly/3fZayht
+VT: https://bit.ly/3d1Fpbt
+
+
+
+
+
+
+"NOTE TO DISCORD! WE DO NOT PROMOTE FRAUDULENT ACTIVITY OR ANYTHING, THIS SERVER IS STRICTLY FOR ENTERTAINMENT AND EDUCATIONAL PURPOSES ONLY! WE ARE NOT  RESPONSIBLE FOR WHAT OUR MEMBERS DO WITH THE METHODS!"

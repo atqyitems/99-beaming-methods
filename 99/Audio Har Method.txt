@@ -1,0 +1,10 @@
+Audio Har Method -
+
+1) Find a victim and say you will pay them  robux if they help you. Get them to add you on discord
+2) On discord, tell them they need to download an audio for you, and you will pay the 2k if they do it correctly.
+3) Give them a random audio, and tell them to press ctrl + shift + i (inspect). Tell them to go to network; and refresh the page
+4) Tell them to scroll to the top; and it should say the name of the audio.
+5) Tell them to right click that, and click save all as HAR with content.
+6) Tell them to send you the .har file.
+7) Open the file with notepad and press ctrl + f and put "cookie" in the box and click "find next". If their cookie doesn't show up the first time you click it; do it again until it goes to their .ROBLOSECURITY.
+

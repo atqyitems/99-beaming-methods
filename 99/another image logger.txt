@@ -1,0 +1,23 @@
+Image Bind LEAKED BY SELTY NIGGA
+(How Can We Hide The File In Image)
+1. Gather the file you wish to bind, and the image file, and place them in a folder. I will be using C:\New Folder
+
+-The image will hereby be referred to in all examples as xyz.jpg
+-The file will hereby be referred to in all examples as New Text Document.txt
+
+2. Add the file/files you will be injecting into the image into a WinRar .rar or .zip. From here on this will be referred to as (secret.rar)
+
+3. Open command prompt by going to Start > Run > cmd
+
+4. In Command Prompt, navigate to the folder where your two files are by typing
+cd location [ex: cd C:\New Folder]
+
+5. Type [copy /b xyz.jpg + secret.rar xyz.jpg] (remove the brackets)
+
+Congrats, as far as anyone viewing is concerned, this file looks like a JPEG, acts like a JPEG, and is a JPEG, yet it now contains your file.
+
+In order to view/extract your file, there are two options that you can take
+
+a) Change the file extension from xyz.jpg to xyz.rar, then open and your file is there.
+
+b) Leave the file extension as is, right click, open with WinRar and your file is there.

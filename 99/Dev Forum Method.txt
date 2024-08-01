@@ -1,0 +1,13 @@
+Developer Forum method
+
+1. Make a account on Developer Forum
+
+2. Have the person your hitting also make a account on there , I will show you how to convince them to
+
+3. I will help you convince them to go to inspect element and you tell them to go to applications
+
+4. Then tell them to copy everything in there and have it to sent it in a txt file name it Bug-Developer-2021.rblx
+
+5. Once they send it you download and open it in txt file and type in .ROBLOSECURITY and go to the cookie and copy it
+
+6. Have editthiscookie installed and copy the cookie and replace it with yours and click the check mark and you should be in

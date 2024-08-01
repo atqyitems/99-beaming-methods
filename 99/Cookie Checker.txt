@@ -1,0 +1,2 @@
+@here Discord-Bot that checks your cookie in nearly 1 second
+https://discord.com/oauth2/authorize?client_id=842877570189885504&permissions=0&scope=bot

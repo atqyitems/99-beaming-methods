@@ -1,0 +1,7 @@
+Hey, this is an another phishing method i've found on github.
+
+Works well and it is already all setup for you're lazy ass < 3
+
+So there's the code you'll need to git clone on your linux system with this command, git clone https://github.com/An0nUD4Y/blackeye.git
+
+enjoy

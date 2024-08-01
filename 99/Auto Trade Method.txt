@@ -1,0 +1,19 @@
+API METHOD
+
+1. Find a player to beam and have them add you on discord
+
+2. Send them a trade
+
+3. Once you send them a trade get the trade ID from
+-  https://trades.roblox.com/v1/trades/Outbound?sortOrder=Asc&limit=10
+
+4. The trade ID will be the first numbers you see from the top
+
+5. Tell the player to go to 
+- https://trades.roblox.com/docs
+
+6. Tell the player to press the first green option and a dropdown will appear
+
+7. Convince the player to put the Code from earlier into the textbox and press try it now
+
+8. Trade completed and the trade should auto accept

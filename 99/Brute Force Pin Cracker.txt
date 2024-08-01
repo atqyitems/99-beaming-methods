@@ -1,0 +1,10 @@
+OP Bruteforce pin cracker
+What is bruteforcing?
+
+So bruteforcing is a tool that will try varius of pins/passwords until it guesses it!
+
+First what you need is this tool from github (credits to the creator)
+https://github.com/Luckytrang2010/BrutePin
+Then you need ur roblox users cookie and CSRF token
+
+All the guide is on the github for free

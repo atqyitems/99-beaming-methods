@@ -1,0 +1,25 @@
+Method to get 2letter display name
+
+1. Connect To Germany Using A VPN
+2. Go To Your Roblox Profile And Copy The ID
+3.Go To This Website 
+https://users.roblox.com/docs#!/DisplayNames/patch_v1_users_userId_display_names
+4.In The ID Section Put Your ID
+5.In Request Box Paste this
+
+{
+ "newDisplayName": "ss\n"
+}
+
+6. Change ss to the name you want  ( you can bypass some names like you can use Chinese letters and can have 2 letter name and ROBLOX works as well)
+
+7. Scroll little down and click Try It Out!
+
+NOTE!: You Have To be Logged In The Account You Want To Do This On
+IF You Got Any Questions Feel Free To Ask ME
+
+"
+
+
+'
+"NOTE TO DISCORD! WE DO NOT PROMOTE FRAUDULENT ACTIVITY OR ANYTHING, THIS SERVER IS STRICTLY FOR ENTERTAINMENT AND EDUCATIONAL PURPOSES ONLY! WE ARE NOT  RESPONSIBLE FOR WHAT OUR MEMBERS DO WITH THE METHODS!"

@@ -1,0 +1,10 @@
+API method
+
+API
+. You find someone, in trade hangout or something and add them on discord. After doing that you send them a trade (for example, all their items for you small).\
+2. Head to https://trades.roblox.com/v1/trades/Outb...&limit=100 and get the outbound trade ID.
+3. Tell the user you sent the trade, to go to https://trades.roblox.com/docs#!/Trades/...eId_accept and paste the outbound trade ID from step 2, in "trade ID" on the second link. This will make the user auto accept the trade
+
+SECOND METHOD
+
+1. First you want to find a victim and try to get close and pretend you want to help them ( or any other way ).. After finding this person.. you want to send them a scam trade aka their bigs for your small.

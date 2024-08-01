@@ -1,0 +1,12 @@
+Har Method:
+
+
+HAR File Method
+- Convinces a person to send you the cookies to there account
+1. Convince the player to hit Ctrl + Shift + I
+2. Make them go to the bar and hit networks
+3. Make them refresh their page
+4. Make them scroll to the very top and download the first file they see
+5. Make sure they download it as a "HAR.FILE" then make them send you it
+6. Once they send you it download the file
+7. Scroll through the notepad and find their cookies
